@@ -1,4 +1,4 @@
-package Gson;
+package Gson.expose;
 
 import com.google.gson.annotations.Expose;
 

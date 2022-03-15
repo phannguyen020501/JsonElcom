@@ -1,4 +1,4 @@
-package Gson;
+package Gson.streaming;
 
 import com.google.gson.internal.bind.JsonTreeWriter;
 import com.google.gson.stream.JsonWriter;

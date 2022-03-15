@@ -1,10 +1,7 @@
-package Gson;
+package Gson.version;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.google.gson.JsonArray;
-
-import java.lang.reflect.Member;
 
 public class VersioningExample {
     public static void main(String[] args) {

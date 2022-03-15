@@ -1,4 +1,4 @@
-package Gson;
+package Gson.streaming;
 // sử dụng JsonReader để phân tích cú pháp hoặc đọc tệp tin
 
 import com.google.gson.stream.JsonReader;

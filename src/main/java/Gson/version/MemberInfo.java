@@ -1,4 +1,4 @@
-package Gson;
+package Gson.version;
 
 import com.google.gson.annotations.Since;
 import com.google.gson.annotations.Until;

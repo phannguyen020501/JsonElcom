@@ -1,4 +1,4 @@
-package Gson;
+package Gson.collection;
 
 import com.google.gson.Gson;
 
